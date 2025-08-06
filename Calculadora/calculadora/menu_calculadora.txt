@@ -1,0 +1,18 @@
+*********************************
+***     CALCULADORA MENU      ***
+***   1 - Soma                ***
+***   2 - Subtrair            ***
+***   3 - Multiplicar         ***
+***   4 - Dividir             ***
+***   5 - Quadrado            ***
+***   6 - Raiz quadrada       ***
+***   7 - Cubo                ***
+***   8 - Raiz cubica         ***
+***   9 - Potencia (x^y)      ***
+***  10 - Absoluto            ***
+***  11 - Fatorial            ***
+***  12 - Logaritmo base 10   ***
+***  13 - Logaritmo base x    ***
+***  14 - Hipotenusa	      ***
+***  15 - Formula resolvente  ***
+*********************************
