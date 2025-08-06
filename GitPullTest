@@ -1,3 +1,8 @@
 This is a new test file for git pull
 R: Test successful, now trying git commit and push
+<<<<<<< HEAD
 teste de conflito
+=======
+
+será q dá conflito??
+>>>>>>> 7d27c04a489510aef874cda7bb0b3ea5fae82290
